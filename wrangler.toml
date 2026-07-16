@@ -1,0 +1,9 @@
+name = "motiurxtechtv"
+main = "_worker.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
